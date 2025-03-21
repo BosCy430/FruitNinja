@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/UnrealProjects/VRShooter/Content/BP_Sword.uasset",
+				"C:/UnrealProjects/VRShooter/Content/BP_FruitBase.uasset",
+				"C:/UnrealProjects/VRShooter/Content/BP_Apple.uasset",
+				"C:/UnrealProjects/VRShooter/Content/m_apple_outer.uasset",
+				"C:/UnrealProjects/VRShooter/Content/apple_apple_whole.uasset",
+				"C:/UnrealProjects/VRShooter/Content/apple_outer.uasset",
+				"C:/UnrealProjects/VRShooter/Content/apple_apple_half_1.uasset",
+				"C:/UnrealProjects/VRShooter/Content/m_apple_inner.uasset",
+				"C:/UnrealProjects/VRShooter/Content/apple_inner.uasset",
+				"C:/UnrealProjects/VRShooter/Content/apple_apple_half_2.uasset",
+				"C:/UnrealProjects/VRShooter/Content/apple_apple_quarter_1.uasset",
+				"C:/UnrealProjects/VRShooter/Content/apple_apple_quarter_2.uasset",
+				"C:/UnrealProjects/VRShooter/Content/apple_apple_quarter_1_cut.uasset",
+				"C:/UnrealProjects/VRShooter/Content/apple_apple_slice.uasset",
+				"C:/UnrealProjects/VRShooter/Content/BP_FruitShooter.uasset",
+				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/BP_Katana.uasset",
+				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/M_Metal.uasset",
+				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/katana_1_Connect.uasset",
+				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/Color.uasset",
+				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/katana_1_Blade.uasset",
+				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/katana_1_Handle.uasset",
+				"C:/UnrealProjects/VRShooter/Content/BP_Katana.uasset",
+				"C:/UnrealProjects/VRShooter/Content/BP_ScoreField.uasset"
+			]
+		}
+	]
+}
