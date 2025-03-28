@@ -22,14 +22,21 @@
 				"C:/UnrealProjects/VRShooter/Content/apple_apple_slice.uasset",
 				"C:/UnrealProjects/VRShooter/Content/BP_FruitShooter.uasset",
 				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/VRPawn.uasset",
-				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/BP_Katana.uasset",
 				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/M_Metal.uasset",
 				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/katana_1_Connect.uasset",
 				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/Color.uasset",
 				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/katana_1_Blade.uasset",
 				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/katana_1_Handle.uasset",
-				"C:/UnrealProjects/VRShooter/Content/BP_Katana.uasset",
-				"C:/UnrealProjects/VRShooter/Content/BP_ScoreField.uasset"
+				"C:/UnrealProjects/VRShooter/Content/BP_ScoreField.uasset",
+				"C:/GitHub Projects/FruitNinja/Content/BP_ScoreBoard.uasset",
+				"C:/GitHub Projects/FruitNinja/Content/BP_StartFruit.uasset",
+				"C:/GitHub Projects/FruitNinja/Content/BP_Sword.uasset",
+				"C:/GitHub Projects/FruitNinja/Content/BP_FruitBase.uasset",
+				"C:/GitHub Projects/FruitNinja/Content/BP_Apple.uasset",
+				"C:/GitHub Projects/FruitNinja/Content/BP_FruitShooter.uasset",
+				"C:/GitHub Projects/FruitNinja/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/UnrealProjects/VRShooter/Content/VRTemplate/Blueprints/BP_Katana.uasset",
+				"C:/UnrealProjects/VRShooter/Content/BP_Katana.uasset"
 			]
 		}
 	]
